@@ -5,7 +5,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" width="100"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
 
 <div id="badges" align= "center">
   <a href="https://www.linkedin.com/in/hamza-saidu">
