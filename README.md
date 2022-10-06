@@ -1,3 +1,5 @@
+![](https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW)
+
 ### Hi there 👋
 
 
@@ -29,8 +31,9 @@
 </div>
 
 
-- 🌱 I’m currently learning Cypto and revenge
+- 🌱 I’m currently learning Cypto 
 - 👯 I’m looking to collaborate on Ctfs
+- 👯 I'm currently an SE student **[cyberguru]**
 - 💬 Ask me about Ctfs and bug bounties
 - 😄 Pronouns: HE
 - ⚡ Fun fact: i do play call of duty, this my username **Cyberguru1**
@@ -41,5 +44,5 @@
 
 <!-- links -->
 
-[cyberguru]: https://github.com/hamza34-del/  "cyberguru"
+[cyberguru]: https://github.com/Cyberguru1/  "cyberguru"
 [linkedin]: https://www.linkedin.com/in/hamza-saidu "Hamza LinkedIn"
