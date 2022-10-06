@@ -28,7 +28,7 @@
  
 
 
-- 🌱 I’m currently learning Cypto 
+- 🌱 I’m currently learning Cybersec
 - 👯 I’m looking to collaborate on Ctfs
 - 👯 I'm currently an SE student **[cyberguru]**
 - 💬 Ask me about Ctfs and bug bounties
